@@ -1,5 +1,5 @@
-# Data Structures & algorithms
-Implementing and analysing Big O of data structures and algorithms.
+# Data Structures & Algorithms
+Implementing and analyzing Big O notation and the usages of data structures and algorithms.
 
 ## Linked List:
 - **append**: O(1);
