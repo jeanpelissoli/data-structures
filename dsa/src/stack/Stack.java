@@ -6,7 +6,7 @@ public class Stack<T> {
 	private Node top;
 	private int height;
 
-	class Node<T> {
+	class Node {
 		T val;
 		Node next;
 
