@@ -12,7 +12,7 @@ public class Main {
 		tree.insert(60);
 		tree.insert(80);
 
-		tree.inOrderTraversal(); 
+		tree.inOrderTraversal();
 
 	}
 }
