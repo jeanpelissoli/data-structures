@@ -1,4 +1,4 @@
-# Data Structures
+# Data Structures & algorithms
 Implementing and analysing Big O of data structures and algorithms.
 
 ## Linked List:

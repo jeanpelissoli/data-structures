@@ -1,5 +1,7 @@
 package stack;
 
+//LIFO - LAST IN FIRST OUT
+
 public class Stack<T> {
 	private Node top;
 	private int height;
