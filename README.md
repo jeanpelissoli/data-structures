@@ -40,8 +40,8 @@ A Queue is a linear data structure that follows the FIFO (First in, First out) p
 
 ## HashTable
 The HashTable is a data structure that efficiently maps keys to values, using a hash function to distribute the data within an array. I have implemented collision handling using the linked list method (separate chaining).
-Without collisions or few collisions: O(1) for all operations;
-With a lot of collisions: O(n);
+- Without collisions or few collisions: O(1) for all operations;
+- With a lot of collisions: O(n);
 
 ## Graph
 Bidirection graph using adjacency list.
