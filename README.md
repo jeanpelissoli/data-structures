@@ -43,3 +43,9 @@ The HashTable is a data structure that efficiently maps keys to values, using a 
 Without collisions or few collisions: O(1) for all operations;
 With a lot of collisions: O(n);
 
+## Graph
+Bidirection graph using adjacency list.
+- **addVertex**: O(1);
+- **addEdge**: O(1);
+- **removeEdge**: O(E);
+- **removeVertex**: O(V + E);
