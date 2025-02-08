@@ -49,3 +49,7 @@ Bidirection graph using adjacency list.
 - **addEdge**: O(1);
 - **removeEdge**: O(E);
 - **removeVertex**: O(V + E);
+
+## Heap
+Ideal when implementing a priority queue, fast access to max value or min value. Non related to the area of memory that is also called heap and allocate objects.
+O(log n) for all op.
