@@ -15,8 +15,6 @@ The **Call Stack** is a data structure that follows the LIFO (Last in, First out
 A Queue is a linear data structure that follows the FIFO (First in, First out) principle. This means that elements are added at the rear and removed from the front, just like a real-world queue (e.g., a line at a store).
 <br><br>
 
-![image](https://github.com/user-attachments/assets/108a789d-e822-4b78-960d-b7a0019e0214)
-<br><br>
 
 
 
